@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1380"
+   height="1380.0033"
+   viewBox="0 0 365.12501 365.12585"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Monotone.svg"
+   inkscape:export-filename="E:\Clients\Q1_2020\Fazt\Logo Files\Code\Icon\Color.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#eeeeee"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="1117.1577"
+     inkscape:cy="355.01204"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="50"
+     fit-margin-left="50"
+     fit-margin-right="50"
+     fit-margin-bottom="50"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-global="true"
+     showborder="true"
+     units="px"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1"
+     transform="translate(731.58846,405.27077)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke-width:0.99999988"
+       d="M 690 50 A 640.00162 640.00162 0 0 0 50 690.00195 A 640.00162 640.00162 0 0 0 690 1330.0039 A 640.00162 640.00162 0 0 0 1330 690.00195 A 640.00162 640.00162 0 0 0 690 50 z M 534.16406 347.41211 C 569.14544 347.41211 598.93932 366.84488 614.49219 395.34766 L 815.30078 395.34766 C 830.85358 366.84488 860.65272 347.41211 895.62695 347.41211 C 946.1541 347.41211 987.60938 388.86904 987.60938 439.39648 C 987.60938 489.92352 946.1541 531.38281 895.62695 531.38281 C 860.65272 531.38281 829.55417 511.94887 814.01562 482.15039 L 814.01562 480.85547 L 617.08203 480.85547 L 784.20898 635.02734 C 794.57275 631.14237 803.64464 629.8457 814.01562 629.8457 C 864.52841 629.8457 905.99023 671.30275 905.99023 721.83008 C 905.99023 772.357 864.52841 813.81641 814.01562 813.81641 C 781.62522 813.81641 754.40976 798.27013 737.57227 773.6543 L 576.92578 773.6543 L 576.92578 887.66406 C 606.71813 903.21092 626.14648 934.30461 626.14648 969.28516 C 626.14648 1019.8121 584.69831 1061.2695 534.16406 1061.2695 C 483.63707 1061.2695 442.18164 1019.8121 442.18164 969.28516 C 442.18164 933.00902 462.91089 903.21092 491.4043 887.66406 L 491.4043 730.90039 C 491.4043 707.58014 510.83837 688.14648 534.16406 688.14648 L 712.95508 688.14648 L 543.23633 531.38281 L 534.16406 531.38281 C 483.63707 531.38281 442.18164 489.92352 442.18164 439.39648 C 442.18164 388.86904 483.63707 347.41211 534.16406 347.41211 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-731.58846,-405.27077)"
+       id="circle1524" />
+  </g>
+</svg>
